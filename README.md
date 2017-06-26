@@ -1,4 +1,4 @@
-# Ruby coding exercises from Chris Pine's book, Learning to Program
+# Ruby coding exercises from Chris Pine's book, Learn to Program
 
 <b>99bottles</b>
 <br>
